@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eAaMwaj8ejlu6YRwXxmFNeSQchy//vXeiY8/cjPkrBuSgrGbPnuUpIFi6DtFg1AONJEQr3EAh2QJeXxpIeg0pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krzys\\source\\repos\\huncwot-dziadek\\StudentNewFirstCorrection\\StudentAppFirstCorrection\\StudentAppFirstCorrection\\StudentAppFirstCorrection\\StudentAppFirstCorrection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krzys\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\krzys\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\krzys\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\krzys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
